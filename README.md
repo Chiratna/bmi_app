@@ -7,7 +7,4 @@ A Flutter application that calculates your BMI.
 This project was done by the help of a online course.
 
 ## Screens
-<img src= "screenshots/bmiss1.png" width = "100" height ="300">
-
-
-![](screenshots/bmiss2.png)
+<img src= "screenshots/bmiss1.png" width = "300" height ="400">           <img src= "screenshots/bmiss2.png" width = "300" height ="400">
